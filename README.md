@@ -8,4 +8,4 @@ Vous devez soit int√©grer ce fichier dans votre bot soit prendre de la Ligne 7 √
 
 (Ne pas oublier la const client) DISCORD.GG/SINIXDEV 
 
-Pour toute aide rejoindre ce discord : https://discord.gg/rXDwvyMU32
+Pour toute aide rejoindre ce discord : https://discord.gg/sNmWeWKhYP
